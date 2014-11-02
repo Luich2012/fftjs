@@ -19,6 +19,6 @@
   "ignore": [
     "**/.*",
     "index.html",
-    "CNAME"
+    "CNAME",
   ]
 }
